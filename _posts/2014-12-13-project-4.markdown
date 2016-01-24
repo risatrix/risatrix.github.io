@@ -1,0 +1,15 @@
+---
+title: The Betty App
+subtitle: UX/UI Protoyping
+layout: default
+modal-id: 4
+date: 2013-12-13
+img: UB-page.png
+thumbnail: UB-page.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: A stylist I knew was thinking of a branded address app for her salon. I made some wireframes, chose a color theme, and built the protoype using Ruby on Rails, jQuery mobile, and SASS. It was a really fun way to expand my skills! Demo [here](http://bettyapp.herokuapp.com/), repo [here](https://github.com/risatrix/bettyApp).
+
+---

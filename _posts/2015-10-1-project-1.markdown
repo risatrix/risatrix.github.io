@@ -1,0 +1,15 @@
+---
+title: Story Page Redesign
+subtitle: UX Design, Content Strategy
+layout: default
+modal-id: 1
+date: 2015-10-1
+img: hummingbird-thumbnail.jpeg
+thumbnail: redesign-thumbnail.jpeg
+alt: image-alt
+project-date: In progress
+client: Texas Tribune
+category: UX, Content
+description: For this project, I was extremely nspired by Kevin Hoffman's "Co-Design, Not Redesign" [talk](https://vimeo.com/131476603) as well as his approach to [designing meetings](https://www.uie.com/brainsparks/2012/12/14/kevin-hoffman-designing-stellar-meetings/). I conduected stakeholder interviews, designed a content exercise, conducted user interviews. In addition, I asked our lead developer to pull metrics on current page use, and to work closerly with the design team to produce rapid, mobile-first protoypes that will let us start to use a modular desing system. So far, we've avoided meetings for meetings' sake and are hoping to get our beta in front of users by March 2016.
+
+---
