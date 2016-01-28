@@ -6,10 +6,10 @@ modal-id: 2
 date: 2014-05-1
 img: TT-lineup-admin.png
 thumbnail: TT-tribtalk.png
-alt: image-alt
+alt: image of an administrative interface
 project-date: May 2014
 client: Texas Tribune
 category: Web Development
-description: Tribtalk was an opinion website launched in May of 2014. As technical lead, I incorporated a lo-fi wireframing process with stakeholders, as well as a mobile-first design/development process. I developed the UI on the front end and back end.
+description: Tribtalk was an opinion website launched in May of 2014. As technical lead, I incorporated a low-fi paper wireframing process with stakeholders, as well as a mobile-first design/development process. I developed the UI on the front end and back end.
 
 ---

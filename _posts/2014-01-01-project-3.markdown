@@ -10,7 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: UI Development
-description:
-<!-- Teaching was one of my earliest UX experiences: the students simply wouldn't read end notes because flipping to the back of the books was too much work. Footnotes are an improvement, but they're not really appropriate for most form factors. So, I figured, online reading should make it as effortless as possible to see notes. The demo is [here](http://risatrix.github.io/internote/), and the repo is [here](https://github.com/risatrix/internote). -->
+description: Teaching was one of my earliest UX experiences. The students simply wouldn't read endnotes because flipping to the back of the books was too much work. Footnotes are an improvement, but they're not really appropriate for most form factors. So, I figured, online reading should make it as effortless as possible to see notes. The demo is <a href="http://risatrix.github.io/internote/">here</a>, and the repo is <a href="https://github.com/risatrix/internote">here</a>.
 
 ---
