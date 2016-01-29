@@ -2,8 +2,8 @@
 title: Lawmaker Ethics Explorer
 subtitle: UI Development
 layout: default
-modal-id: 5
-date: 2013-01-01
+modal-id: 6
+date: 2015-12-27
 img: TT-explorer.png
 thumbnail: TT-explorer.png
 alt: image of the explorer landing page

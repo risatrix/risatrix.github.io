@@ -2,8 +2,8 @@
 title: TribTalk Opinion Site
 subtitle: UX/UI Development, Technical Lead
 layout: default
-modal-id: 2
-date: 2014-05-1
+modal-id: 4
+date: 2015-12-29
 img: TT-lineup-admin.png
 thumbnail: TT-tribtalk.png
 alt: image of an administrative interface

@@ -2,8 +2,8 @@
 title: Texas Tribune Festival
 subtitle: UX/UI, Content
 layout: default
-modal-id: 6
-date: 2013-08-01
+modal-id: 5
+date: 2015-12-28
 img: TT-fest-sitemap.png
 thumbnail: TT-fest-home-menu.png
 alt: Texas Tribune festival sitemap

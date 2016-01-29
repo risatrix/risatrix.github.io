@@ -3,7 +3,7 @@ title: Project Hummingbird
 subtitle: UX Design, Content Strategy
 layout: default
 modal-id: 1
-date: 2015-10-1
+date: 2016-01-01
 img: hummingbird-thumbnail.jpeg
 thumbnail: hummingbird-thumb.png
 alt: image of hummingbird

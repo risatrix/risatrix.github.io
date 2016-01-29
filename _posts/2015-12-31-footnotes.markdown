@@ -2,8 +2,8 @@
 title: Online Footnote UI
 subtitle: Online Footnote UI
 layout: default
-modal-id: 3
-date: 2014-01-01
+modal-id: 2
+date: 2015-12-31
 img: internote.png
 thumbnail: WIC-thumb.jpg
 alt: image of footnote interface
