@@ -6,10 +6,10 @@ modal-id: 6
 date: 2013-08-01
 img: TT-fest-sitemap.png
 thumbnail: TT-fest-home-menu.png
-alt: image-alt
+alt: Texas Tribune festival sitemap
 project-date: August 2013
 client: The Texas Tribune
 category: UI, Content
-description: In 2013, the Texas Tribune added several more tracks to its program. This created the perfect opportunity for a content audit. In order to accomodate the number tracks, I chose to employ an off-canvas menu based on this idea, which allowed the designer to pursue a bolder, less cluttered approach -- you can compare the <a href="http://festival.texastribune.org/festival/2012/home/">before</a> and <a href="http://festival.texastribune.org/festival/2013/home/">after</a>. Successive festivals have continued to use the new structure.
+description: In 2013, the Texas Tribune added several more tracks to its program, and it was not readable on small screens -- a perfect opportunity for a content audit! In order to accomodate the growing number of tracks, I chose to employ an off-canvas menu I'd been <a href="https://www.smashingmagazine.com/2013/01/off-canvas-navigation-for-responsive-website/"reading about</a>; I was particularly excited to by the minimal use of JavaScript and the fast performance of CSS transitions. Our audit and menu allowed the designer to pursue a bolder, less cluttered approach. You can compare the <a href="http://festival.texastribune.org/festival/2012/home/">before</a> and <a href="http://festival.texastribune.org/festival/2013/home/">after</a>. Successive festivals have continued to use the new structure.
 
 ---
