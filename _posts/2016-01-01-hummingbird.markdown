@@ -1,6 +1,6 @@
 ---
 title: Project Hummingbird
-subtitle: UX Design, Content Strategy
+subtitle: Project Lead, UX Design
 layout: default
 modal-id: 1
 date: 2016-01-01
@@ -13,4 +13,4 @@ category: UX, Content
 
 ---
 
-Project Hummingbird is the code name we gave to our plans for a site redesign, starting with the redesign of the story page. In running this project, I am inspired by Kevin Hoffman's "Co-Design, Not Redesign" [talk](https://vimeo.com/131476603) as well as his approach to  [designing meetings](https://www.uie.com/brainsparks/2012/12/14/kevin-hoffman-designing-stellar-meetings/). As project lead, I've conducted stakeholder interviews, user interviews, and content exercises. In addition, I asked our lead developer to pull metrics on current page use, and to work closely with the design team to produce rapid, mobile-first protoypes that will create the basis for our site's modular design system. So far, we've avoided meetings for meetings' sake and are hoping to get our beta in front of users by spring 2016.
+"Project Hummingbird" is our internal code name for the site redesign. In keeping with best practices, we planned a gradual approach, starting with of the story page. As project lead, I've conducted stakeholder interviews, user interviews, and content exercises. In addition, I asked our lead developer to pull metrics on current page use, and to work closely with the design team to produce rapid, mobile-first protoypes that will create the basis for our site's modular design system. So far, we're iterating on code prototypes, and we're hoping to get our beta in front of readerss by spring 2016. In running this project, I am particularly inspired by Kevin Hoffman's "Co-Design, Not Redesign" [philosophy](https://vimeo.com/131476603) as well as his approach to  [designing meetings](https://www.uie.com/brainsparks/2012/12/14/kevin-hoffman-designing-stellar-meetings/).
