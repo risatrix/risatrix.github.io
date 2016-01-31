@@ -40,7 +40,3 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-
-kramdown:
-  parse_block_html: true
