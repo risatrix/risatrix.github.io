@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2015-12-30
 img: UB-page.png
-thumbnail: Betty-thumb.png
+thumbnail: betty-thumb.png
 alt: image of the app
 project-date: April 2014
 client: Urban Betty
