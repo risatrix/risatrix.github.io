@@ -12,4 +12,4 @@ client: Urban Betty
 category: Web Development
 ---
 
-A stylist I knew wanted a branded address app for her salon, and invited me to help. I made some wireframes, chose a color theme based on her [website](http://urbanbetty.com/) and built the protoype using Ruby on Rails, jQuery mobile, and SASS. It's a really eye-opening experience to build something from conception to code, and it was definitely a fun way to expand my skills! Demo [here](http://bettyapp.herokuapp.com), repo [here](https://github.com/risatrix/bettyApp).
+A stylist friend wanted a branded address app for her salon, and invited me to help. I made some wireframes, chose a color theme based on her [website](http://urbanbetty.com/) and built the protoype using Ruby on Rails, jQuery mobile, and SASS. It's a really eye-opening experience to build something from conception to code, and it was definitely a fun way to expand my skills! Demo [here](http://bettyapp.herokuapp.com), repo [here](https://github.com/risatrix/bettyApp).
