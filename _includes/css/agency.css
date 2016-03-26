@@ -293,14 +293,14 @@ header .intro-text p{
     font-size: 18px;
 }
 
-header .intro-text .intro-heading {
+/*header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 40px;
     font-weight: 700;
     line-height: 50px;
-}
+}*/
 
 @media(min-width:768px) {
     header {
@@ -320,14 +320,14 @@ header .intro-text .intro-heading {
         line-height: 40px;
     }
 
-    header .intro-text .intro-heading {
+    /*header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 60px;
         font-weight: 700;
         line-height: 60px;
-    }
+    }*/
 }
 
 section {
