@@ -11,7 +11,9 @@ body {
 }
 
 .text-muted {
-    color: #777;
+    font-size: 16px;
+    color: #{{ site.color.secondary-dark }};
+    font-weight: 300;
 }
 
 .text-primary {
@@ -331,7 +333,7 @@ header .intro-text p{
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 section h2.section-heading {
@@ -348,12 +350,6 @@ section h3.section-subheading {
     line-height: 1.5;
     font-style: italic;
     font-weight: 400;
-}
-
-@media(min-width:768px) {
-    section {
-        padding: 150px 0;
-    }
 }
 
 .service-heading {
