@@ -1,6 +1,6 @@
 ---
-title: Texas Tribune Redesigns
-subtitle: Product Lead, UX Design
+title: Tribune Site Redesign
+subtitle: Content/UX Strategy
 layout: default
 modal-id: 1
 date: 2016-01-01
@@ -9,7 +9,7 @@ thumbnail: redesign_thumb.png
 alt: image of hummingbird
 project-date: September 2015-present
 client: The Texas Tribune
-category: UX, Content
+category: Strategy
 
 ---
 

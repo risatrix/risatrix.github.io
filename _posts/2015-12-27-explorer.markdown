@@ -1,5 +1,5 @@
 ---
-title: Lawmaker Ethics Explorer
+title: Lawmaker Explorer
 subtitle: UI Development
 layout: default
 modal-id: 6
