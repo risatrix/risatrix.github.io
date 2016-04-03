@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2016-01-01
 img: hummingbird-thumbnail.jpeg
-thumbnail: hummingbird-thumb.png
+thumbnail: redesign_thumb.png
 alt: image of hummingbird
 project-date: September 2015-present
 client: The Texas Tribune
