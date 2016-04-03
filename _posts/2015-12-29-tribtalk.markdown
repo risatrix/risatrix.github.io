@@ -1,6 +1,6 @@
 ---
 title: TribTalk Opinion Site
-subtitle: UX/UI Development, Technical Lead
+subtitle: Tech Lead, UI Development
 layout: default
 modal-id: 4
 date: 2015-12-29
@@ -13,4 +13,4 @@ category: Web Development, UX/UI
 
 ---
 
-Tribtalk was an opinion website launched in May of 2014. As technical lead, I begain with a low-fi paper wireframing process with stakeholders, and worked with the Art department to create a mobile-first design/development process. Given the limits of the generic Django administrative interface, I developed the UI on the front end and back end. We'd meant this site to serve as an experimental ground to see where we might go with our main site. Overall, we were very happy with the clean look of the site.
+Tribtalk is an opinion website -- a sister site to the main Texas Tribune news website -- launched in May of 2014. As technical lead, I began with having stakeholder use a low-fi paper wireframing process, and worked with the Art department to create a mobile-first design/development process. Given our frustration with the limits of the generic Django administrative interface, I developed the UI using separate view templates. We meant this site to serve as an experimental ground to see where we might go with our main site. Overall, we were very happy with the clean look of the site.

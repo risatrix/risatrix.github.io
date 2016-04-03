@@ -1,0 +1,23 @@
+---
+title: Content Strategy
+subtitle: My Favorite Spreadsheets
+layout: default
+modal-id: 1
+date: 2015-12-31
+img: internote.png
+thumbnail: WIC-thumb.jpg
+alt: image of footnote interface
+project-date: April 2014
+client: self and co-author
+category: UI Development
+
+---
+
+ I often joke that I'm a content strategist masquerading as a tech director. Having an initmate knowledge of database models gives you a real
+ appreciation for information architecture; it started when I would make csvs from the various parts of our site (this is where having some backend programming really helps content audits). But that could only do so much; what you have, in the end, is still a list of urls, titles, and owners -- the real work begins when you decide whether to keep, archive, or trash, and with hashing out the details of ownership and governance.
+
+ TL;DR This is a collection of my favorite spreadsheets.
+
+ Ads are an interesting issue, especially since in news, there's a strict dividing line between business and editorial. But because of that, the ad units were a mess -- the system spit out a csv of 222 units, only 90 or so were active. I then sifted through our code to see which "active" units actually appeared, and found that over 40 did not. I made the final spreadsheet so that we could all look at the ads by content type, in order to facilitate discussions between sponsorship and editorial.
+
+ The next item on my list was our generic pages (or "flat pages" in Django parlance). These were tough; there was not author or date attached, and over 300 of them had breakable javascript.

@@ -11,7 +11,9 @@ body {
 }
 
 .text-muted {
-    color: #777;
+    font-size: 16px;
+    color: #{{ site.color.secondary-dark }};
+    font-weight: 300;
 }
 
 .text-primary {
@@ -233,9 +235,9 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
+      /*  padding: 25px 0;*/
         border: 0;
-        background-color: transparent;
+       /* background-color: transparent;*/
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -286,21 +288,30 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    font-size: 1.5em;
 }
 
-header .intro-text .intro-heading {
+header .intro-text p{
+    font-size: 18px;
+}
+
+/*header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 40px;
     font-weight: 700;
     line-height: 50px;
-}
+}*/
 
 @media(min-width:768px) {
+    header {
+        margin-top: 25px;
+    }
+
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        /*padding-top: 300px;
+        padding-bottom: 200px;*/
     }
 
     header .intro-text .intro-lead-in {
@@ -311,18 +322,18 @@ header .intro-text .intro-heading {
         line-height: 40px;
     }
 
-    header .intro-text .intro-heading {
+    /*header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 60px;
         font-weight: 700;
         line-height: 60px;
-    }
+    }*/
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 section h2.section-heading {
@@ -339,12 +350,6 @@ section h3.section-subheading {
     line-height: 1.5;
     font-style: italic;
     font-weight: 400;
-}
-
-@media(min-width:768px) {
-    section {
-        padding: 150px 0;
-    }
 }
 
 .service-heading {
